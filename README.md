@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+## HealthCare ChatBot Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the frontend side of the HealthCare ChatBot app which is powered by React.js.
 
-## Available Scripts
+## About HealthCare ChatBot
 
-In the project directory, you can run:
+Welcome to HealtCare ChatBot – your personalized healthcare companion! 🌟
 
-### `npm start`
+Our innovative chatbot is designed to provide you with accurate and timely information, answer your health-related queries, and offer guidance on various medical topics. Whether you have general health concerns, need medication information, or seek advice on maintaining a healthy lifestyle, our chatbot is here to assist you.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Key Features:
+* Instant Information: Get quick and reliable information about symptoms, medical conditions, and treatments.
+* Personalized Assistance: Receive personalized health tips and recommendations tailored to your individual needs.
+* Medication Guidance: Access details about medications, dosage instructions, and potential side effects.
+* Healthy Living Tips: Explore tips for maintaining a healthy lifestyle, including nutrition advice and fitness recommendations.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Powered by Cutting-Edge Technology:
 
-### `npm test`
+1. Node.js and Express.js: Our server-side architecture is built on the robust and efficient Node.js, with Express.js providing a streamlined framework for developing APIs.
+2. React.js: The user interface is crafted with React.js, offering a responsive and interactive experience for seamless communication with the chatbot.
+3. ChatGPT API Integration: We leverage the power of OpenAI's ChatGPT API to generate natural and context-aware responses, ensuring a human-like conversation experience.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+How to Get Started:
 
-### `npm run build`
+1. Simply type your health-related questions or concerns into the chatbox.
+2. Our chatbot will analyze your input and provide relevant, informative responses.
+3. Feel free to ask about symptoms, medications, general health advice, or any other health-related topic.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Your health is our priority, and we're committed to providing you with accurate and helpful information. Let [Your Healthcare Chatbot Application Name] be your go-to resource for a healthier, more informed lifestyle.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Get started and take control of your well-being today! 💚🤖
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### About author
 
-### `npm run eject`
+This app is developed by Yash Verma, pursuing Bachelors of Technology in Computer Science and Design (sophomore year as of late 2023). This app is developed as for odd semester mini project, this app would not be currenty pushed tinto production. This app is intended to be a university project.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Contributers
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Rishav Das (https://github.com/r1shavd/)
